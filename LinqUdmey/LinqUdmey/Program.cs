@@ -18,7 +18,8 @@ namespace LinqUdmey
 
 
             var catswithA = from cat in catNames
-                            where cat.Contains("a")  && (cat.Length <5)
+                            where cat.Contains("a")   
+                            where cat.Length <5
                             select cat;
 
 
@@ -39,7 +40,9 @@ namespace LinqUdmey
 
 
             var getTheNumbers = from number in numbers
-                                where (number > 5) && (number  <  10)
+                                where (number > 5) 
+                                where number  <  10
+                                orderby number descending 
                                 select number;
 
 
