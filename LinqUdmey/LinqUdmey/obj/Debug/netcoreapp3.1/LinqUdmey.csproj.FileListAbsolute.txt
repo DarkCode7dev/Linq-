@@ -1,0 +1,13 @@
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.exe
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.deps.json
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.runtimeconfig.json
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.runtimeconfig.dev.json
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.dll
+F:\C#\Linq\LinqUdmey\LinqUdmey\bin\Debug\netcoreapp3.1\LinqUdmey.pdb
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.csprojAssemblyReference.cache
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.AssemblyInfoInputs.cache
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.AssemblyInfo.cs
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.csproj.CoreCompileInputs.cache
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.dll
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.pdb
+F:\C#\Linq\LinqUdmey\LinqUdmey\obj\Debug\netcoreapp3.1\LinqUdmey.genruntimeconfig.cache
