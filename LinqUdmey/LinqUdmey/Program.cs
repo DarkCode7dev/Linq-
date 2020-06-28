@@ -16,19 +16,49 @@ namespace LinqUdmey
 
             //"from" ke baad variable name phir "in" phir collection name phir "select" phir variable name 
 
-            var simpleLinq = from s in sentence
-                             select s;     
-                            
+
+            var catswithA = from cat in catNames
+                            where cat.Contains("a")  && (cat.Length <5)
+                            select cat;
 
 
-           
-            
 
 
-            Console.WriteLine(string.Join("  , ", simpleLinq));
+            Console.WriteLine(string.Join(" ,", catswithA));
 
-           
+
+
+
+
+
+
+
+
+
+
+
+
+            var getTheNumbers = from number in numbers
+                                where (number > 5) && (number  <  10)
+                                select number;
+
+
+            List<int> newNumbers = new List<int>();
+
+            foreach (var number in numbers)
+            {
+                if (number < 5)
+                {
+                    newNumbers.Add(number);
+                }
+            }
+
+
+            Console.WriteLine(string.Join("  , ", getTheNumbers));
+
+            //Console.WriteLine(string.Join(" ,", newNumbers));
         }
     }
 }
+
 
